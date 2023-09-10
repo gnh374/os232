@@ -1,2 +1,2 @@
 # OS232
-[LINKS] (TXT/mylog.txt)
+[LINKS] (https:TXT/mylog.txt)
