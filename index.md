@@ -1,2 +1,2 @@
 # OS232
-[LINKS] (TXT/mylog.txt)|| LOG || GITHUB
+[LINKS] (TXT/mylog.txt)
