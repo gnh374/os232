@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-#LINKS
+# LINKS
 
 * [Operating System Basic](https://skillsforall.com/course/operating-systems-basics?courseLang=en-US) --- 
 Fundamental about Operating System
