@@ -18,7 +18,7 @@ Learn about Git and GitHub <br>
 Git and GitHub make it easier to manage different software versions and make it easier for multiple people to work on the same software project. So it is important for developers to understand how to use them.
 <br>
 
-* [Vi/VIM Docummentation](http://linuxfocus.org/~guido/vi/)<br>
+* [Vi/VIM Documentation](http://linuxfocus.org/~guido/vi/)<br>
 Learn about Vi command <br>
 It is very difficult to remember all the commands. Therefore, we can look at this documentation to find the commands we need
 
