@@ -8,7 +8,7 @@ About Fundamental of Operating System <br>
 It teachs about basic concepts and skills needed to understand the purpose and characteristics of operating systems, the implementation of basic OS security, and how to configure mobile device network connectivity and email
 <br>
 <hr>
-* [Linux Command Line Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As) <br>
+* [Linux Command Line Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As) <br>
 About learn basic command in Linux <br>
 We can understand the use of each command and how to use it
 <br>
