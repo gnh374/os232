@@ -22,6 +22,6 @@ Git and GitHub make it easier to manage different software versions and make it 
 Learn about Vi command <br>
 It is very difficult to remember all the commands. Therefore, we can look at this documentation to find the commands we need
 
-* [Bash Scriptingt]([https://developers.redhat.com/cheat-sheets/bash-shell-cheat-sheet?sc_cid=7013a000003SdA3AAK&gclid=CjwKCAjwpJWoBhA8EiwAHZFzfp5S5T95sdqXOjOj0yo46NIOurc9XcSI7wLi4Vwet0jibqGvmvRR-BoC2zcQAvD_Bw](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/E) <br>
+* [Bash Scriptingt](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/E) <br>
 Learn about bash scripting <br>
 It's important to know how to code or manipulate available file in Linux.
