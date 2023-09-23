@@ -25,3 +25,15 @@ It is very difficult to remember all the commands. Therefore, we can look at thi
 * [Bash Scriptingt](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) <br>
 Learn about bash scripting <br>
 It's important to know how to code or manipulate available file in Linux.
+
+* [SHA-256 Checksums Explained](https://docs.precisely.com/docs/sftw/spectrum/ProductUpdateSummary/ProductUpdateSummary/source/about_sha256.html#:~:text=An%20SHA%2D256%20checksum%20is,a%20very%20different%20looking%20checksum.) <br>
+This is a brief explanation about SHA-256. This link explains in general what SHA-256 is and its function, which has been in my assignment and I run it via script.
+
+* [Linux tar Command](https://www.tutorialspoint.com/linux-tar-command#:~:text=The%20tar%20command%20in%20Linux,more%20accessible%20storage%20and%20portability.) <br>
+This link contains commands related to tar. I think it's important to understand it because in this assignment we are dealing a lot with various tarball.
+
+* [Unix Makefile Tutorial](https://www.tutorialspoint.com/makefile/index.htm) <br>
+This link explains how to create and use Makefile used for pop quiz W03. This link also explains the benefits of Makefile and why we need to use it.
+
+*[Linux mount](https://www.javatpoint.com/linux-mount#:~:text=The%20mount%20command%20attaches%20the,devices%20available%20to%20the%20users.) <br>
+This link explain about mounting in linux and it's general syntax. Because this week assignment is about add extra virtual disk and mount it, i think this link important to understand more about this week assignment
