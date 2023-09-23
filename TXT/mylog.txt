@@ -24,3 +24,11 @@ ZCZC W02 10 L05 Quiz 2
 ZCZC W02 180 L02 offline class
 ZCZC W02 90 L11 Reading Assignment
 ZCZC W02 10 L41 Editing mylog.txt 
+
+ZCZC W03 60 L09 Weekly Assignment WEEK03
+ZCZC W03 50 L05 Study for QUIZ 3
+ZCZC W03 10 L05 Quiz 3
+ZCZC W03 180 L02 offline and zoom class
+ZCZC W03 90 L06 Read other links and browse for some link and ask chatGPT
+ZCZC W03 45 L05 Do all the PopQuiz
+ZCZC W03 10 L41 Editing mylog.txt 
