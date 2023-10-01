@@ -32,3 +32,9 @@ ZCZC W03 180 L02 offline and zoom class
 ZCZC W03 90 L06 Read other links and browse for some link and ask chatGPT
 ZCZC W03 45 L05 Do all the PopQuiz
 ZCZC W03 10 L41 Editing mylog.txt 
+
+
+ZCZC W04 50 L09 Weekly Assignment WEEK04
+ZCZC W04 90 L02 offline class
+ZCZC W04 30 L05 do PopQuiz
+ZCZC W04 10 L41 Editing mylog.txt

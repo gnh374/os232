@@ -37,3 +37,7 @@ This link explains how to create and use Makefile used for pop quiz W03. This li
 
 *[Linux mount](https://www.javatpoint.com/linux-mount#:~:text=The%20mount%20command%20attaches%20the,devices%20available%20to%20the%20users.) <br>
 This link explain about mounting in linux and it's general syntax. Because this week assignment is about add extra virtual disk and mount it, i think this link important to understand more about this week assignment
+
+*[scp command in Linux with Examples](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) <br>
+The link explain about scp command that we used several time and also for PopQuiz. It gives us a syntax and also the example so we could understand this command easily <br>
+
