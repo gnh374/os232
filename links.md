@@ -35,9 +35,16 @@ This link contains commands related to tar. I think it's important to understand
 * [Unix Makefile Tutorial](https://www.tutorialspoint.com/makefile/index.htm) <br>
 This link explains how to create and use Makefile used for pop quiz W03. This link also explains the benefits of Makefile and why we need to use it.
 
-*[Linux mount](https://www.javatpoint.com/linux-mount#:~:text=The%20mount%20command%20attaches%20the,devices%20available%20to%20the%20users.) <br>
+* [Linux mount](https://www.javatpoint.com/linux-mount#:~:text=The%20mount%20command%20attaches%20the,devices%20available%20to%20the%20users.) <br>
 This link explain about mounting in linux and it's general syntax. Because this week assignment is about add extra virtual disk and mount it, i think this link important to understand more about this week assignment
 
-*[scp command in Linux with Examples](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) <br>
+* [scp command in Linux with Examples](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) <br>
 The link explain about scp command that we used several time and also for PopQuiz. It gives us a syntax and also the example so we could understand this command easily <br>
 
+* [C tutorial](https://www.w3schools.com/c/) <br>
+From this link, i can learn C programming language that we used in this week's assignment. <br>
+The syntax is very clear and there are several examples that help me to understand easily <br>
+
+* [Working with tarballs on Linux](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html) <br>
+This link helps me understand more about tarballs and also how to extract them. <br>
+The syntax is clear and also the explanation not too long so it's really helpful.
