@@ -39,3 +39,11 @@ ZCZC W04 180 L02 offline class
 ZCZC W04 30 L05 do PopQuiz
 ZCZC W04 10 L41 Editing mylog.txt
 ZCZC W04 90 L06 Read and browse for some link
+
+ZCZC W05 60 L05 Study for QUIZ 4
+ZCZC W05 10 L05 Quiz 4
+ZCZC W05 90 L02 async class
+ZCZC W05 90 L06 Read other links
+ZCZC W05 10 L41 Editing mylog.txt
+ZCZC W05 90 L09 Weekly Assignment
+ZCZC W05 60 L05 Do all the PopQuiz

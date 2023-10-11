@@ -48,3 +48,16 @@ The syntax is very clear and there are several examples that help me to understa
 * [Working with tarballs on Linux](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html) <br>
 This link helps me understand more about tarballs and also how to extract them. <br>
 The syntax is clear and also the explanation not too long so it's really helpful.
+
+* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>
+This links help me to understand about Virtual Memory. <br>
+It also give us some picture which really help me to understand more easily.
+
+* [Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) <br>
+This link explain about C command that i used in async class. <br>
+It really help me to do the assignment
+
+*[strcat() in C](https://www.geeksforgeeks.org/strcat-in-c/) <br>
+This link explain clearly about strcat() command that used in this week assignment. <br>
+It really help me to understand the c code in this assignment
+
