@@ -57,7 +57,7 @@ It also give us some picture which really help me to understand more easily.
 This link explain about C command that i used in async class. <br>
 It really help me to do the assignment
 
-*[strcat() in C](https://www.geeksforgeeks.org/strcat-in-c/) <br>
+* [strcat() in C](https://www.geeksforgeeks.org/strcat-in-c/) <br>
 This link explain clearly about strcat() command that used in this week assignment. <br>
 It really help me to understand the c code in this assignment
 
