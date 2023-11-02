@@ -61,3 +61,19 @@ It really help me to do the assignment
 This link explain clearly about strcat() command that used in this week assignment. <br>
 It really help me to understand the c code in this assignment
 
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) <br>
+This link explain about fork methode thaht we use in this week material <br>
+It also has the example of code so i can easier understand the way to use this methode
+
+* [Linux / UNIX Find out or determine if process PID is running](https://www.cyberciti.biz/faq/howto-display-process-pid-under-linux-unix/) <br>
+This link help understand more about PID <br>
+It also gives us several commands that we can use to know PID of some process  <br>
+
+*[What are PID and PPID?](https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/) <br>
+This link help me understand abour PPID which also material for this week <br>
+It also provides the diagram that make me more understand about PPID
+
+*[sleep() Function in C](https://www.geeksforgeeks.org/sleep-function-in-c/) <br>
+This link explains about skeeo methode that we use several times in this week demo <br>
+It help me understand the demo more
+
