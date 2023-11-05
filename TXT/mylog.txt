@@ -47,3 +47,11 @@ ZCZC W05 90 L06 Read other links
 ZCZC W05 10 L41 Editing mylog.txt
 ZCZC W05 90 L09 Weekly Assignment
 ZCZC W05 60 L05 Do all the PopQuiz
+
+ZCZC W06 60 L05 Study for QUIZ 6
+ZCZC W06 15 L05 Quiz 6
+ZCZC W06 180 L02  class
+ZCZC W06 100 L06 Read other links
+ZCZC W06 10 L41 Editing mylog.txt
+ZCZC W06 90 L09 Weekly Assignment
+ZCZC W06 60 L05 Do all the PopQuiz
