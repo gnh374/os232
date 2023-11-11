@@ -77,3 +77,13 @@ It also provides the diagram that make me more understand about PPID
 This link explains about skeeo methode that we use several times in this week demo <br>
 It help me understand the demo more
 
+*[How to use POSIX semaphores in C language](https://www.geeksforgeeks.org/use-posix-semaphores-c/)
+This link explain about semaphore that we use a lot in this week <br>
+it also give us example so we can understand more easily <br>
+
+*[Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+This link explain about synchronization which the main topic of this week <br>
+It help me a lot to understand about synchronization
+
+*[Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)
+This link explain the difference between deadlock and starvation
