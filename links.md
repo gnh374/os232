@@ -87,3 +87,13 @@ It help me a lot to understand about synchronization
 
 *[Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)
 This link explain the difference between deadlock and starvation
+
+*[What is Cross Compiler?](https://www.geeksforgeeks.org/what-is-cross-compiler/) <br>
+It explains about cross compiler which one of the topic in lfs part 1 - 5.
+It also give us the implementation so we could understanad more and easily.
+
+*[software toolchain](https://www.techtarget.com/searchsoftwarequality/definition/software-toolchain) <br>
+It explains about toolchain in easy way and help me understand more
+
+*[What is the difference between Login and Non-Login Shell?](https://tecadmin.net/difference-between-login-and-non-login-shell/) <br>
+It explain about shell and also how to differentiate login and non login shell which make me more understand
